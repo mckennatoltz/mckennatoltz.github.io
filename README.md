@@ -5,7 +5,7 @@
 
   <p class="highlight"><b>Healthy Life</b> offers a range of personalized healthcare services designed to keep you and your family well.</p>
 
-  <p class="emphasis">Our team is dedicated to providing compassionate and <i>expert</i> care. </p>
+  <p class="emphasis"> <i>Our team is dedicated to providing compassionate and expert care. </i> </p>
 
 <p>
 
