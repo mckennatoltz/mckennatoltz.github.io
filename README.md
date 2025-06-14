@@ -37,7 +37,14 @@
     <a href="patient-info.pdf" download>Download Our Patient Info Guide (PDF)</a>
   </p>
 
-  <p><small>Last modified: <script>(document.lastModified)</script></small></p>
+  <p><small>Last modified: <script>
+  const today = new Date();
+  const formatted = today.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+  document.write(formatted);</small></p>
 
 </body>
 </html>
