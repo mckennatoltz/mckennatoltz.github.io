@@ -31,7 +31,7 @@
     <a href="mailto:contact@healthylife.com">Contact Me</a>
   </p>
 
-  <img src="healthcare.jpeg" alt="Healthcare Image">
+  <img src="healthcare.jpeg"/300x200 alt="Healthcare Image">
 
   <p>
     <a href="patient-info.pdf" download>Download Our Patient Info Guide (PDF)</a>
