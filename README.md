@@ -1,9 +1,9 @@
 </head>
 <body>
 
-  <h1><u><i>Welcome to Healthy Life Healthcare Services</i></u></h1>
+  <h1 style="color: blue;"><u><i>Welcome to Healthy Life Healthcare Services</i></u></h1>
 
-  <p class="highlight"><b>Healthy Life</b> offers a range of personalized healthcare services designed to keep you and your family well.</p>
+  <p class="highlight"><b>Healthy Life</b> offers a range of <u>personalized</u> healthcare services designed to keep you and your family well.</p>
 
   <p class="emphasis"> <i>Our team is dedicated to providing compassionate and expert care. </i> </p>
 
