@@ -10,8 +10,8 @@
   <p class="emphasis">Our team is dedicated to providing <b>compassionate</b> and <i>expert</i> care. We serve patients of all ages and needs.</p>
 
 <p>
- <font color = "darkblue"; font-size: 18px;"> Our Services </font>
-  
+ <font>color = "darkblue"</font>
+  <h2>Our Services</h2>
   <ul>
     <li>General Check-ups</li>
     <li>Immunizations</li>
