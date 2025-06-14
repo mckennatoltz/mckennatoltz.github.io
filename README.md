@@ -1,5 +1,3 @@
-# mckennatoltz.github.io
- 
 </head>
 <body>
 
@@ -11,7 +9,7 @@
 
 <p>
 
-  <h2 style="color: darkblue;">Our Services</h2>
+  <h2 style="color: blue;">Our Services</h2>
   <ul>
     <li>General Check-ups</li>
     <li>Immunizations</li>
