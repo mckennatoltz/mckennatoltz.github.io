@@ -37,7 +37,7 @@
     <a href="patient-info.pdf" download>Download Our Patient Info Guide (PDF)</a>
   </p>
 
-  <p><small>Last modified: <script>document.write(document.lastModified);</script></small></p>
+  <p><small>Last modified: <script>(document.lastModified)</script></small></p>
 
 </body>
 </html>
