@@ -7,11 +7,11 @@
 
   <p class="highlight"><b>Healthy Life</b> offers a range of personalized healthcare services designed to keep you and your family well.</p>
 
-  <p class="emphasis">Our team is dedicated to providing <b>compassionate</b> and <i>expert</i> care. We serve patients of all ages and needs.</p>
+  <p class="emphasis">Our team is dedicated to providing <b>compassionate</b> and <i>expert</i> care. </p>
 
 <p>
- <font>color = "darkblue"</font>
-  <h2>Our Services</h2>
+
+  <h2 style="color: darkblue;">Our Services</h2>
   <ul>
     <li>General Check-ups</li>
     <li>Immunizations</li>
