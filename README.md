@@ -9,7 +9,7 @@
 
 <p>
 
-  <h2 style="color: green;">Our Services</h2>
+  <h2 font="color: green;">Our Services</h2>
   <ul>
     <li>General Check-ups</li>
     <li>Immunizations</li>
