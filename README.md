@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Healthy Life Healthcare Services</title>
+</head>
 <body>
 
   <h1 style="color: blue"><u><i>Welcome to Healthy Life Healthcare Services</i></u></h1>
 
   <p class="highlight"><b>Healthy Life</b> offers a range of personalized healthcare services designed to keep you and your family well.</p>
 
-  <p class="emphasis"> <i>Our team is dedicated to providing compassionate and expert care. </i> </p>
-
-<p>
+  <p class="emphasis"><i>Our team is dedicated to providing compassionate and expert care.</i></p>
 
   <h2 style="color: green;">Our Services</h2>
   <ul>
@@ -26,21 +26,20 @@
     <li>Receive personalized care plan</li>
   </ol>
 
-
   <p>
     <a href="https://www.cdc.gov" target="_blank">Visit the CDC for more health tips</a><br>
     <a href="services.html">Read more about each service</a><br>
     <a href="mailto:contact@healthylife.com">Contact Me</a>
   </p>
 
-  <img src="healthcare.jpeg" width=300 height=200 alt="Healthcare Image">
+  <img src="healthcare.jpeg" width="300" height="200" alt="Healthcare Image">
 
   <p>
     <a href="patient-info.pdf" download>Download Our Patient Info Guide (PDF)</a>
   </p>
 
-  <p><small>Last modified: document.write(document.lastModified); </small></p>
+  <p><small>Last modified: <script>document.write(document.lastModified);</script></small></p>
 
 </body>
-</head>
 </html>
+
