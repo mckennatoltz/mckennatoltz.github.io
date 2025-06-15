@@ -29,7 +29,7 @@
 
   <p>
     <a href="https://www.cdc.gov" target="_blank">Visit the CDC for more health tips</a><br>
-    <a href="Eloheh.pdf">Read more about each service</a><br>
+    <a href="HealthPlus.pdf">Read more about each service</a><br>
     <a href="mailto:contact@healthylife.com">Contact Me</a>
   </p>
 
