@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html></html>
-</head>
+<html>
+<head>
 <body>
 
   <h1 style="color: blue"><u><i>Welcome to Healthy Life Healthcare Services</i></u></h1>
@@ -42,4 +42,5 @@
   <p><small>Last modified: document.write(document.lastModified); </small></p>
 
 </body>
+</head>
 </html>
