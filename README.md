@@ -44,3 +44,17 @@
 </body>
 </head>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Healthy Life</title>
+</head>
+<body>
+
+  <h1 style="color: blue;"><u><i>Welcome to Healthy Life Healthcare Services</i></u></h1>
+
+</body>
+</html>
+
