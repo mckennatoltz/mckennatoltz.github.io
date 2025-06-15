@@ -37,7 +37,7 @@
     <a href="patient-info.pdf" download>Download Our Patient Info Guide (PDF)</a>
   </p>
 
-  <p><small>Last modified: const today = new Date()</small></p>
+  <p><small>Last modified: document.write(document.lastModified); </small></p>
 
 </body>
 </html>
